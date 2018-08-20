@@ -46,6 +46,7 @@ export default class Register extends Component {
             })
             .catch(function (response) {
                 console.log(response);
+                alert("User registeration failed", response);
             });
     }
 
