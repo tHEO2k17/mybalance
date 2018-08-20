@@ -1,0 +1,26 @@
+body, html{
+  background: #FAFAFA;
+  font-family: "Gotham Rounded", sans-serif;
+}
+
+.content{
+  display: flex;
+  align-items: center;
+}
+
+.form-control{
+  background-color: #FAFAFA;
+  border: none;
+}
+
+.fs-16{
+  font-size: 15px;
+}
+
+/* Widths */
+.width-100{
+  margin: 0 auto;
+  padding: 0px;
+  width: 50%;
+  opacity: .5;
+}

@@ -1,0 +1,30 @@
+{
+  "name": "mybalance",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.5.2",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "npm": "^6.4.0",
+    "popper.js": "^1.14.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-owl-carousel2": "^0.3.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-simple-line-icons": "^1.0.8",
+    "reactstrap": "^6.3.0",
+    "shards": "^1.0.3",
+    "shards-ui": "^2.0.3",
+    "simple-line-icons": "^2.4.1",
+    "tether": "^1.4.3"
+  },
+  "scripts": {
+    "start": "set HTTPS=true&&react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
